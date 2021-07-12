@@ -14,7 +14,6 @@ header:
 {% include base_path %}
 
 ## Education
-======
 * B.S. in Biomedical Engineering, Case Western Reserve University, 2017
   * Minor in Mechanical Engineering
   * Focus Area: Biomechanics
@@ -23,7 +22,6 @@ header:
 * Ph.D in Aerospace Engieering Sciences, University of Colorado Boulder, 2022 (expected)
 
 ## Work experience
-======
 * Graduate Research Assistant - University of Colorado Boulder Bioastronautics Research Group (2017-present)
   * Thesis: **Dynamic Foot Shape Models to Improve Spacesuit Boot Fit**
     * Developed in-house 4D scanning setup to model dynamic foot morphology and creating framework to utilize dynamic foot morphology modeling in designing planetary spacesuit boots with better fit, comfort, and mobility
@@ -51,7 +49,6 @@ header:
   * *funded through Ohio Space Grant Consortium – Space Academy Internship*
 
 ## Service
-=====
 * You’re @ CU Mentor Program / CU DLA Program: Graduate Mentor for Undergraduate Students (2017, 2019-2020)
 * CU Science Ambassador: Assisting in design of youth hands-on science activities (2018)
 * EBME 105 – Introduction to Biomedical Engineering: Teaching Assistant (2016)
@@ -59,7 +56,6 @@ header:
 * Discussions - CWRU’s Undergraduate Research Journal: Editor in Chief (2016-2017)
 
 ## Skills
-======
 * CAD: Solidworks Certified Associate, Inventor, Creo
 * Machining: Mill, Lathe, CNC, 3D Printing
 * Programming Languages: Python, MATLAB, R
@@ -76,7 +72,6 @@ header:
 * Statistics: machine learning, shape modeling
 
 ## Awards and Fellowships
-======
 * 1st Place Student Poster - 2020 NASA Human Research Program Investigator's Workshop (Feb 2020)
 * Martyn Shorten Award for Innovation - 14th Biennial Footwear Biomehcanics Symposium (July 2019)
 * National Science Foundation Graduate Research Fellowship (2018-2021)
