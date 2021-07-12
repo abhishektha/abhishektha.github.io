@@ -1,5 +1,6 @@
 ---
 layout: archive
+toc: true
 title: "CV"
 permalink: /cv/
 author_profile: true
