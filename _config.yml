@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhishektha Boppana"
+title                    : "Abhishektha (Abhi) Boppana"
 title_separator          : "-"
 name                     : &name "Abhishektha Boppana"
 description              : &description "Abhi's personal website"
@@ -48,7 +48,6 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-og_image : flatirons.png
 
 # SEO Related
 google_site_verification :
@@ -63,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  flatirons.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
