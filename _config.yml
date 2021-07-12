@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhishektha (Abhi) Boppana"
+title                    : "ABHISHEkTHA (ABHI) BOPPANA"
 title_separator          : "-"
 name                     : &name "Abhishektha Boppana"
 description              : &description "Abhi's personal website"
@@ -268,4 +268,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
+minimal_mistakes_skin: "contrast"
