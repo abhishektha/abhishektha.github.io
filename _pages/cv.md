@@ -32,6 +32,9 @@ header:
     * **Evaluation of XR Technologies for Spacecraft Habitat Design**: Developed experimental methodology and technology required to compare the use of virtual reality, augmented reality, and hybrid reality against physical reality mockups in the design of spacecraft habitats.
   * *funded through National Science Foundation Graduate Research Fellowship and CU Boulder Smead Scholars Program*
 
+* Technical Consultant - Volumental AB (2020-present)
+  * **Characterization of heel- and ball-width across global foot population**: Developed new metric to measure how width varies across foot length. Analyzed across large (>1 million) global foot scan database to provide insights for last grading
+
 * Engineering Assistant - Zin Technologies (2016-2017)
   * **Integration of Finite-Element Modeling into a Bone Remodeling Model**: Investigated bone remodeling during microgravity exercise loads by developing CT-scan based finite element models; defining loads based on ISS exercise and deriving material properties from scans. Worked in conjunction with NASA Glenn Research Center.
 
