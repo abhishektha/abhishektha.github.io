@@ -14,7 +14,7 @@ description              : &description "Abhi's personal website"
 url                      : https://www.abhishektha.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abhishektha/personal-website"
-teaser                   :  "flatirons.png"
+teaser                   :  
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -267,3 +267,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-minimal
