@@ -267,6 +267,6 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs: production
 
 minimal_mistakes_skin: "contrast"
