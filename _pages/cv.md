@@ -19,7 +19,7 @@ header:
   * Focus Area: Biomechanics
 * M.S. in Aerospace Engineering Sciences, University of Colorado Boulder, 2019
   * Focus Area: Bioastronautics
-* Ph.D in Aerospace Engieering Sciences, University of Colorado Boulder, 2022 (expected)
+* Ph.D. in Aerospace Engineering Sciences, University of Colorado Boulder, 2022 (expected)
 
 # Work experience
 * Graduate Research Assistant - University of Colorado Boulder Bioastronautics Research Group (2017-present)
@@ -73,6 +73,6 @@ header:
 
 # Awards and Fellowships
 * 1st Place Student Poster - 2020 NASA Human Research Program Investigator's Workshop (Feb 2020)
-* Martyn Shorten Award for Innovation - 14th Biennial Footwear Biomehcanics Symposium (July 2019)
+* Martyn Shorten Award for Innovation - 14th Biennial Footwear Biomechanics Symposium (July 2019)
 * National Science Foundation Graduate Research Fellowship (2018-2021)
 * Smead Scholar - Ann and H.J. Smead Department of Aerospace Engineering (2017-present)
