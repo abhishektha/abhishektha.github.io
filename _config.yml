@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ABHISHEKTHA (ABHI) BOPPANA"
+title                    : "ABHISHEKTHA BOPPANA"
 title_separator          : "-"
-name                     : &name "Abhishektha Boppana"
+name                     : &name "Abhishektha (Abhi) Boppana"
 description              : &description "Abhi's personal website"
 url                      : https://www.abhishektha.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
